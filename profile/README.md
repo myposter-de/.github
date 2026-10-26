@@ -4,7 +4,7 @@
 
 ### Custom posters, canvases & photo books – made in Germany since 2010.
 
-[![Website](https://img.shields.io/badge/myposter.de-F5B800?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.myposter.de) [![Inside](https://img.shields.io/badge/inside.myposter.de-111111?style=for-the-badge)](https://inside.myposter.de) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/company/myposter/) [![Jobs](https://img.shields.io/badge/We're_hiring-FF3366?style=for-the-badge&logo=rocket&logoColor=white)](https://inside.myposter.de/jobs/)
+[![Website](https://img.shields.io/badge/myposter.de-00A4E0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.myposter.de) [![Inside](https://img.shields.io/badge/inside.myposter.de-111111?style=for-the-badge)](https://inside.myposter.de) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/company/myposter/) [![Jobs](https://img.shields.io/badge/We're_hiring-FF3366?style=for-the-badge&logo=rocket&logoColor=white)](https://inside.myposter.de/jobs/)
 
 </div>
 
