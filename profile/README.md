@@ -38,4 +38,4 @@ München · Bergkirchen · Olching · Berlin · Bordeaux 🇫🇷
 
 ## 🚀 Join us
 
-Want to build what others just print? Check out our [open positions](https://inside.myposter.de/jobs/) or write to [jobs@all-in-group.com](mailto:jobs@all-in-group.com).
+Want to build what others just print? Check out our [open positions](https://inside.myposter.de/jobs/) or drop us a line at [jobs@all-in-group.com](mailto:jobs@all-in-group.com).
