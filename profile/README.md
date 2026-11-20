@@ -10,8 +10,9 @@
 
 ---
 
-Production, service, logistics, software, marketing and design – **everything in-house**.
-We're part of the [ALL IN GROUP](https://www.all-in-group.com).
+We turn your photos into posters, canvases, photo books and more – and we do it all ourselves. Our own teams build the shop, the app and the software that runs our printing machines, and they print, pack and ship every order.
+
+MYPOSTER is part of the [ALL IN GROUP](https://www.all-in-group.com), a leading e-commerce group. Under one roof it brings together brands like MYPOSTER, JUNIQE, Kartenliebe and ArtPhotoLimited, plus our own production, Printhouse. What connects us: a shared mindset, real teamplay and a high bar for **really good quality**.
 
 ## 📊 In numbers
 
