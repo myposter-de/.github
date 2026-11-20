@@ -30,7 +30,6 @@ Our tech teams build the shop, the configurator, the app and the software that r
 - **Heart in it** – we go the extra mile, every time.
 - **No compromise on quality** – our machines even run slower if it makes the print better.
 - **Team over ego** – diverse experience, learning from each other.
-- **Sustainable** – FSC-certified packaging, green energy, carbon offsetting.
 
 ## 📍 Where we are
 
