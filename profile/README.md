@@ -36,12 +36,6 @@ The mindset we share:
 - **Clear** – we speak frankly, set clear goals and keep full transparency.
 - **Brave** – follow your heart, embrace the unknown and take bold risks.
 
-## 💛 What we do differently
-
-- **Heart in it** – we go the extra mile, every time.
-- **No compromise on quality** – our machines even run slower if it makes the print better.
-- **Team over ego** – diverse experience, learning from each other.
-
 ## 📍 Where we are
 
 München · Bergkirchen · Olching · Berlin · Bordeaux 🇫🇷
