@@ -27,7 +27,7 @@ Our tech teams build the shop, the configurator, the app and the software that r
 
 ## 💡 Our values
 
-The mindset we share across the [ALL IN GROUP](https://www.all-in-group.com):
+The mindset we share:
 
 - **Together** – no ego, no politics, just teamwork and support.
 - **Never satisfied** – we challenge the status quo and go the extra mile.
