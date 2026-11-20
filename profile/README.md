@@ -25,6 +25,8 @@ Our tech teams build the shop, the configurator, the app and the software that r
 
 **Frontend** · **Backend Shop** · **Backend Production** · **DevOps** · **App** · **QA**
 
+👉 Meet our tech team: [inside.myposter.de/tech](https://inside.myposter.de/tech/)
+
 ## 💡 Our values
 
 The mindset we share:
