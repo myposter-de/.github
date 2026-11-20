@@ -25,6 +25,17 @@ Our tech teams build the shop, the configurator, the app and the software that r
 
 **Frontend** · **Backend Shop** · **Backend Production** · **DevOps** · **App** · **QA**
 
+## 💡 Our values
+
+The mindset we share across the [ALL IN GROUP](https://www.all-in-group.com):
+
+- **Together** – no ego, no politics, just teamwork and support.
+- **Never satisfied** – we challenge the status quo and go the extra mile.
+- **Unstoppable** – we push forward with energy to deliver incredible results.
+- **Nerdy** – passionate experts diving deep into every project.
+- **Clear** – we speak frankly, set clear goals and keep full transparency.
+- **Brave** – follow your heart, embrace the unknown and take bold risks.
+
 ## 💛 What we do differently
 
 - **Heart in it** – we go the extra mile, every time.
